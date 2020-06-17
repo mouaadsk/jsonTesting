@@ -10,7 +10,7 @@
   "status" : "CREATED",
   "content" : "salam this is an sms from CMAT",
   "botId" : null,
-  "sentDate" : 2020-06-18T23:00:00Z,
+  "sentDate" : "2020-06-18T23:00:00Z",
   "retrievingDate" : "2020-06-14T23:00:00Z",
   "creationDate" : "2020-06-14T23:00:00Z"
 },
